@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="218px" height="121px" viewBox="0 0 218 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="362px" height="47px" viewBox="0 0 362 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
-    <title>profile</title>
+    <title>logo copy 2</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="profile" transform="translate(-19.000000, -67.000000)">
-            <rect id="Rectangle-2" x="0" y="0" width="256" height="256"></rect>
-            <g id="Group-3" transform="translate(21.000000, 69.000000)" stroke="#FFFFFF" stroke-width="4">
-                <path d="M186.216545,64.8103234 C186.071727,64.8103234 185.931818,64.8293099 185.787,64.8316832 C185.787,64.8245633 185.789455,64.8174433 185.789455,64.8103234 C185.789455,36.6272785 162.159545,13.7794323 133.011818,13.7794323 C111.726,13.7794323 93.4298182,25.9901074 85.0843636,43.5407278 C79.5321818,40.7093701 73.2190909,39.0884 66.5034545,39.0884 C49.0958182,39.0884 34.3292727,49.8893294 28.8752727,64.9218689 C28.1241818,64.8625362 27.3706364,64.8126967 26.6023636,64.8126967 C11.907,64.8126967 0,76.3279922 0,90.5346202 C0,104.741248 11.9094545,116.256544 26.6023636,116.256544 L186.219,116.256544 C200.914364,116.256544 212.821364,104.738875 212.821364,90.5346202 C212.818909,76.3256189 200.909455,64.8103234 186.216545,64.8103234 L186.216545,64.8103234 Z" id="Shape"></path>
-                <ellipse id="Oval" cx="200.293364" cy="13.0531998" rx="13.5" ry="13.0531998"></ellipse>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-copy-2" transform="translate(0.000000, -8.000000)" fill="#FFFFFF">
+            <text id="SensorFlow" font-family="Roboto-Regular, Roboto" font-size="54" font-weight="normal">
+                <tspan x="76" y="50">Senso</tspan>
+                <tspan x="226.899414" y="50" letter-spacing="2.25">r</tspan>
+                <tspan x="248.054688" y="50">Flow</tspan>
+            </text>
+            <g id="Group-2" transform="translate(0.000000, 8.000000)">
+                <g id="Group">
+                    <path d="M23.5,47 C36.4786916,47 47,36.4786916 47,23.5 C47,10.5213084 36.4786916,0 23.5,0 C10.5213084,0 0,10.5213084 0,23.5 C0,36.4786916 10.5213084,47 23.5,47 Z M23.5,41 C33.1649831,41 41,33.1649831 41,23.5 C41,13.8350169 33.1649831,6 23.5,6 C13.8350169,6 6,13.8350169 6,23.5 C6,33.1649831 13.8350169,41 23.5,41 Z" id="Combined-Shape"></path>
+                    <path d="M59.5012679,11.0306797 L59.4705882,11 L39,31.4705882 L42.5319476,35.0025359 L59.5012679,18.0332156 L76.4705882,35.0025359 L80.0025359,31.4705882 L59.5319476,11 L59.5012679,11.0306797 Z" id="Combined-Shape" transform="translate(59.501268, 23.001268) scale(-1, 1) rotate(-90.000000) translate(-59.501268, -23.001268) "></path>
+                </g>
             </g>
         </g>
     </g>

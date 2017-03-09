@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Airbrain
-email: sai@airbrain.sg
+title: SensorFlow
+email: sai@sensorflow.sg
 description: > # this means to ignore newlines until "baseurl:"
   We make buildings energy efficient.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://airbrain.sg" # the base hostname & protocol for your site
-enforce_ssl: "airbrain.sg"
+url: "https://sensorflow.sg" # the base hostname & protocol for your site
+enforce_ssl: "sensorflow.sg"
 
 # Social media profiles - feel free to add more here
 #twitter_username: SBootstrap
